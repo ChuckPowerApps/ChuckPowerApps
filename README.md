@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning as much as I can, including how to use GitHub
 - 💞️ I’m looking to collaborate on Power Apps
 - 📫 How to reach me chuck@chuckclarkonine.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: Retired Navy Musician
 
 <!---
